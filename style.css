@@ -1,0 +1,84 @@
+section.titulo1{
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+}
+section.imagen{
+    text-align: center;
+}
+img.ciudad{
+    width: 150px; height: 120px;
+    opacity: 1.0;
+}
+img.ciudad:hover{
+    opacity: 0.5;
+}
+img.puerto{
+    width: 150px; height: 120px;
+    opacity: 1.0;
+}
+img.puerto:hover{
+    opacity: 0.5;
+}
+img.valencia_antigua{
+    width: 150px; height: 120px;
+    opacity: 1.0;
+}
+img.valencia_antigua:hover{
+    opacity: 0.5;
+}
+img.bioparc{
+    width: 150px; height: 120px;
+    opacity: 1.0;
+}
+img.bioparc:hover{
+    opacity: 0.5;
+}
+section.espacioconcolor{
+    background-color: blue;
+}
+section.espacioconcolor2{
+    background-color: blue;
+}
+div.encabezado{
+    text-align: center;
+}
+p.inicio{
+    position: relative;
+    left: 250px;
+    scroll-margin-inline-end: inline;
+    font-size: large;
+    
+}
+
+p.inicio:hover{
+    background-color: rgb (111, 200, 223);
+    font-weight: bolder;
+}
+hr.linea1{
+    background-color: blue;
+    height: 20px;
+}
+section.cvantigua{
+    background-image: url("img/valencia_antigua.jpg");
+    width: 700px;
+    height: 300px;
+    border: solid black   2px;
+    position: relative;
+    nav-down: 9px;
+}
+
+
+ section.cvantigua2 {
+        background-color: rgb (111, 200, 223);
+        text-align: center;
+        background-color: rgb(0, 204, 255);
+    }
+    
+    img.imgantigua2 {
+        width: 300px;
+        height: 200px;
+        
+    }
+    p.texto {
+        color:blue;
+    }
